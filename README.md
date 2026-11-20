@@ -9,11 +9,11 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Cursando 7mo ciclo de Ingeniería de Software en la UTP
-- 💻 Enfocado en frontend con React y TypeScript, con backend en NestJS
+- 🎓 Actualmente estudiando Ingeniería de Sistemas en la UTP (Independencia, Lima)
+- 💻 Construyendo proyectos reales con React, TypeScript y NestJS
 - 🗄️ Bases de datos con PostgreSQL y MySQL
 - 🎯 Buscando oportunidades como practicante / junior developer
-- 📫 Contacto: tu-correo@gmail.com
+- 📫 Contacto: erickanderson130@gmail.com
 
 ---
 
